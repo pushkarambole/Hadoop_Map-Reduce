@@ -1,9 +1,5 @@
 # Hadoop Map-Reduce Project
 
-## Description:
-
-Developed java solutions for processing input graph data using map-reduce model. Integrated python scripts inside these solutions for implementing  advanced graph operations. 
-
 ## Steps for executing the project:
 
 ### I. Conversion of Directed Graph into Undirected graph

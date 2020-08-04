@@ -1,6 +1,6 @@
 # Hadoop Map-Reduce Project
 
-## Steps for executing the project:-
+## Steps for executing the project-
 
 ### I. Conversion of Directed Graph into Undirected graph
 

@@ -8,7 +8,7 @@
 2. Navigate to the folder ‘conversion’ inside extracted folder using cd command:- cd conversion
 3. Compile the java code using the command:- com.sun.tools.javac.Main adjList.java
 4. Build jar file using the command:- jar cvf adjList.jar *.class
-5. Run the jar file built in previous step using the command:- hadoop jar adjList.jar adjList <(INPUT) path to directed graph file> <(OUTPUT) path to store undirected graph file>
+5. Run the jar file built in previous step using the command:- hadoop jar adjList.jar adjList <(INPUT) path to directed graph file> <(OUTPUT) path to store undirected graph file>>
 6. This will generate output file having converted directed graph into undirected graph.
 
 ### Sample output:
